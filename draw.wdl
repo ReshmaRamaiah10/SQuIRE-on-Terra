@@ -56,6 +56,3 @@ task Draw {
         cpu: 10
           }
 }
-Rate:
-$0.00
-per hour
